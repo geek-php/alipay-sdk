@@ -38,7 +38,9 @@ composer require yjc/alipay-sdk
 ```
 
 ## 使用示例
-首先需要注册支付宝商家版。然后进行配置。
+首先需要注册支付宝商家版。然后进行配置。  
+
+支付宝APP支付：
 
 ``` php
 <?php
