@@ -1,0 +1,26 @@
+{
+    "name": "yjc/alipay-sdk",
+    "description": "alipay SDK",
+    "type": "library",
+    "homepage": "http://github.com/52fhy/alipay-sdk",
+    "keywords": [
+        "alipay",
+        "alipay-sdk",
+        "sdk"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "52fhy",
+            "email": "yjc@52fhy.com"
+        }
+    ],
+    "require": {
+        "php":">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yjc\\Alipay\\": "src"
+        }
+    }
+}
