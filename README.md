@@ -77,7 +77,7 @@ echo htmlspecialchars($response);//就是orderString 可以直接给客户端请
 [ico-version]: https://img.shields.io/packagist/v/yjc/alipay-sdk.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/yjc/alipay-sdk.svg?style=flat-square
-[ico-composer]: https://img.shields.io/badge/composer-yjc/alipay-sdk-yellowgreen.svg?maxAge=2592000
+[ico-composer]: https://img.shields.io/badge/composer-yjc/alipay-sdk.svg?maxAge=2592000
 
 [link-packagist]: https://packagist.org/packages/yjc/alipay-sdk
 [link-downloads]: https://packagist.org/packages/yjc/alipay-sdk
