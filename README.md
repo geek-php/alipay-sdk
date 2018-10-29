@@ -18,8 +18,11 @@ alipay-sdk-PHP 由于没有使用PSR-4规范，默认需要引入AopSdk.php，�
 
 
 目前Request仅保留了`AlipayTrade`系列。
-官方SDK获取：https://docs.open.alipay.com/54/103419，或者  
-http://aopsdkdownload.cn-hangzhou.alipay-pub.aliyun-inc.com/demo/alipay.trade.wap.pay-PHP-UTF-8.zip
+
+官方SDK获取：
+
+- https://docs.open.alipay.com/54/103419
+- http://aopsdkdownload.cn-hangzhou.alipay-pub.aliyun-inc.com/demo/alipay.trade.wap.pay-PHP-UTF-8.zip
 
 ## 安装
 推荐使用`composer`安装：
